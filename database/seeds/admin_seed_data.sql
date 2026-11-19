@@ -1,0 +1,5 @@
+-- Seed: 001_seed_data.sql
+-- Description: Sample development seed data for Campus Placement and Recruitment Management System
+-- Note: Seed data will be populated once core tables are established.
+-- Example placeholder comment:
+-- INSERT INTO roles (name) VALUES ('student'), ('recruiter'), ('admin');
